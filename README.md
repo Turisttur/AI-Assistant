@@ -54,3 +54,13 @@ https://t.me/podo_beauty_bot
 - Поддержка нескольких точек/салонов с разными календарями и прайсами.
 - Голосовой интерфейс через Telegram/WhatsApp (через TTS/STT).
 - Аналитика: самые популярные запросы, причины отмен, пиковые часы.
+
+## Иллюстрация к проекту
+https://github.com/Turisttur/AI-Assistant/blob/main/2025-11-18_232403.png?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/2025-11-19_000726.png?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_18-11-2025_232121_app.suvvy.ai.jpeg?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_18-11-2025_235359_calendar.google.com.jpeg?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_18-11-2025_235534_app.suvvy.ai.jpeg?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_18-11-2025_235553_app.suvvy.ai.jpeg?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_18-11-2025_235619_app.suvvy.ai.jpeg?raw=true
+https://github.com/Turisttur/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_18-11-2025_235857_calendar.google.com.jpeg?raw=true
